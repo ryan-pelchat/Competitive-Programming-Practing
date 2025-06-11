@@ -1,0 +1,27 @@
+"""
+Problem Title: 
+Platform:
+Problem URL:
+Difficulty:
+Category:
+
+Driver:
+Navigator:
+Date Solved:
+Language: Python3
+
+Problem Summary:
+    ...
+
+Approach:
+    - strategy
+    - technique (two pointers, recursion, BFS, etc...)
+    - why did you choose it?
+    - edge cases considered?
+
+Time Complexity: 0(...)
+Space Complexity: 0(...)
+
+Notes:
+    -
+"""
