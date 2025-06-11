@@ -6,6 +6,7 @@ This repository is a collection of programming solutions from Ryan and Ben using
 
 |Name + link|Language|Difficulty|Driver|Navigator|
 |---|---|---|---|---|
+|[Making a Meowth](https://open.kattis.com/problems/makingameowth)| C++ | 2.0- Easy | Ben | Ryan |
 
 ## Leetcode
 
