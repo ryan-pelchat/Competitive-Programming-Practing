@@ -8,6 +8,7 @@ This repository is a collection of programming solutions from Ryan and Ben using
 |---|---|---|---|---|---|
 |[Distributing Poffins](https://open.kattis.com/problems/distributingpoffins?editresubmit=17545562&tab=metadata)| Python3 | 1.9 | Ryan | Ben | 2025-06-11 |
 |[Making a Meowth](https://open.kattis.com/problems/makingameowth)| C++ | 2.0 | Ben | Ryan | 2025-06-11 |
+|[Bingo for the Win!](https://open.kattis.com/problems/bingoforthewin)| C++ | 3.6 | Ben | Ryan | 2025-06-18 |
 
 ## Leetcode
 
