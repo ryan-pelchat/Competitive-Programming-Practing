@@ -14,3 +14,4 @@ This repository is a collection of programming solutions from Ryan and Ben using
 
 |Number|Name + link|Language|Difficulty|Tags|Driver|Navigator|
 |---|---|---|---|---|---|---|
+|355|[Design Twitter](https://leetcode.com/problems/design-twitter/description/)|C++|Medium|Hash Table,Linked List,Design,Heap (Priority Queue)|Ben|Ryan|
