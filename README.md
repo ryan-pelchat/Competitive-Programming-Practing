@@ -16,3 +16,4 @@ This repository is a collection of programming solutions from Ryan and Ben using
 |---|---|---|---|---|---|---|
 |355|[Design Twitter](https://leetcode.com/problems/design-twitter/description/)|C++|Medium|Hash Table,Linked List,Design,Heap (Priority Queue)|Ben|Ryan|
 |3643|[Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically)|Python3|Easy|Contest 462|Ryan|Ben|
+|3644| [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/description/?roomId=sdkWBI)|C++|Medium|Contest 462|Ben|Ryan|
