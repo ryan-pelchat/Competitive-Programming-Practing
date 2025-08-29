@@ -15,6 +15,8 @@ This repository is a collection of programming solutions from Ryan and Ben using
 |Number|Name + link|Language|Difficulty|Tags|Driver|Navigator|
 |---|---|---|---|---|---|---|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs?envType=problem-list-v2&envId=dynamic-programming)|Python3|Easy|Math, Dynamic Programming, Memoization|Ryan|Ben|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description)|C++|Easy|Recursion, Tree Traversal|Ben|Ryan|
 |355|[Design Twitter](https://leetcode.com/problems/design-twitter/description/)|C++|Medium|Hash Table,Linked List,Design,Heap (Priority Queue)|Ben|Ryan|
 |3643|[Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically)|Python3|Easy|Contest 462|Ryan|Ben|
 |3644| [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/description/?roomId=sdkWBI)|C++|Medium|Contest 462|Ben|Ryan|
+
